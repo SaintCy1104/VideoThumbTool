@@ -1,0 +1,14 @@
+[project]
+name = "videothumbtool"
+version = "0.1.0"
+description = "Tải video YouTube/Facebook và chỉnh thumbnail"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "gradio>=5.49.1",
+    "yt-dlp",
+    "pillow>=10",
+    "scipy>=1.18.1",
+]
+
+[tool.uv]
+package = false

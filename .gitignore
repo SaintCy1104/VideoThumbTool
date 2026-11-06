@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+downloads/
+outputs/
+.env
+*.env
+client_secret*.json
+*token*.json
+cookies.txt
+*.log
+*.mp4
+*.mkv
+*.webm
+*.jpg
+*.png
